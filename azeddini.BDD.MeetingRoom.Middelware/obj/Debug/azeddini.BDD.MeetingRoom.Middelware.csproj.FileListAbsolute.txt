@@ -1,0 +1,5 @@
+c:\Users\Admin\Documents\Visual Studio 2015\Projects\azeddini.BDD.MeetingRoom\azeddini.BDD.MeetingRoom.Middelware\bin\Debug\azeddini.BDD.MeetingRoom.Middelware.dll
+c:\Users\Admin\Documents\Visual Studio 2015\Projects\azeddini.BDD.MeetingRoom\azeddini.BDD.MeetingRoom.Middelware\bin\Debug\azeddini.BDD.MeetingRoom.Middelware.pdb
+c:\Users\Admin\Documents\Visual Studio 2015\Projects\azeddini.BDD.MeetingRoom\azeddini.BDD.MeetingRoom.Middelware\obj\Debug\azeddini.BDD.MeetingRoom.Middelware.csprojResolveAssemblyReference.cache
+c:\Users\Admin\Documents\Visual Studio 2015\Projects\azeddini.BDD.MeetingRoom\azeddini.BDD.MeetingRoom.Middelware\obj\Debug\azeddini.BDD.MeetingRoom.Middelware.dll
+c:\Users\Admin\Documents\Visual Studio 2015\Projects\azeddini.BDD.MeetingRoom\azeddini.BDD.MeetingRoom.Middelware\obj\Debug\azeddini.BDD.MeetingRoom.Middelware.pdb
